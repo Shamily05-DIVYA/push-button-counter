@@ -1,3 +1,4 @@
+*TASK 1- PUSH BUTTON COUNTER*
 
 This project implements a simple push-button counter using a microcontroller in an embedded system. The counter increments each time the push button is pressed and displays the count on a connected LCD display or the Serial Monitor. This project is simulated in **TinkerCAD**, making it easy to visualize the circuit and understand its functionality.
 
